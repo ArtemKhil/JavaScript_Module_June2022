@@ -85,7 +85,7 @@
 
 // let firstName = prompt('What is your name?');
 // let lastName = prompt('What is surname?');
-// let age = prompt('How old are you?');
+// let age = +prompt('How old are you?');
 // console.log(firstName, lastName, age);
 
 
