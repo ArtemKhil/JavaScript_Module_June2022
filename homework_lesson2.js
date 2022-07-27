@@ -61,52 +61,52 @@
 // Поля: name, username,password. Вивести в консоль пароль кожного користувача
 
 // let users = [
-//     user1 = {
+//     {
 //         name: 'John',
 //         username: 'Johnny',
 //         password: 'watermelon777'
 //     },
-//     user2 = {
+//     {
 //         name: 'Jack',
 //         username: 'Jackson',
 //         password: 'apple34'
 //     },
-//     user3 = {
+//     {
 //         name: 'Andrew',
 //         username: 'AndrewMac',
 //         password: 'table786'
 //     },
-//     user4 = {
+//     {
 //         name: 'Steve',
 //         username: 'StevieG',
 //         password: 'passion0786'
 //     },
-//     user5 = {
+//     {
 //         name: 'Roger',
 //         username: 'RogerThat',
 //         password: 'counter3460'
 //     },
-//     user6 = {
+//     {
 //         name: 'Samuel',
 //         username: 'SamLarkin',
 //         password: 'waitrose5490'
 //     },
-//     user7 = {
+//     {
 //         name: 'Peter',
 //         username: 'PeterPen',
 //         password: 'strawberry2345'
 //     },
-//     user8 = {
+//     {
 //         name: 'Sebastian',
 //         username: 'Seb',
 //         password: 'cucumber8930'
 //     },
-//     user9 = {
+//     {
 //         name: 'Emma',
 //         username: 'EmmaWatson',
 //         password: 'bentley509'
 //     },
-//     user10 = {
+//     {
 //         name: 'Victoria',
 //         username: 'Queen',
 //         password: 'king45789'
