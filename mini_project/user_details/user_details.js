@@ -53,7 +53,7 @@ buttonPost.onclick = () => {
 
                 postsDetailsBtn.onclick = function () {
 
-                    location.href = `../post_details/post_details.html?id=${JSON.stringify(post)}`
+                    location.href = `../post_details/post_details.html?id=${JSON.stringify(post)}`;
                 };
             }
         })
